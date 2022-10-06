@@ -1,0 +1,10 @@
+C:\Users\ALUMNO\Documents\TiendaBigFeet\TiendaBigFeet\bin\Debug\TiendaBigFeet.exe.config
+C:\Users\ALUMNO\Documents\TiendaBigFeet\TiendaBigFeet\bin\Debug\TiendaBigFeet.exe
+C:\Users\ALUMNO\Documents\TiendaBigFeet\TiendaBigFeet\bin\Debug\TiendaBigFeet.pdb
+C:\Users\ALUMNO\Documents\TiendaBigFeet\TiendaBigFeet\obj\Debug\TiendaBigFeet.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Documents\TiendaBigFeet\TiendaBigFeet\obj\Debug\TiendaBigFeet.Form1.resources
+C:\Users\ALUMNO\Documents\TiendaBigFeet\TiendaBigFeet\obj\Debug\TiendaBigFeet.Properties.Resources.resources
+C:\Users\ALUMNO\Documents\TiendaBigFeet\TiendaBigFeet\obj\Debug\TiendaBigFeet.csproj.GenerateResource.cache
+C:\Users\ALUMNO\Documents\TiendaBigFeet\TiendaBigFeet\obj\Debug\TiendaBigFeet.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Documents\TiendaBigFeet\TiendaBigFeet\obj\Debug\TiendaBigFeet.exe
+C:\Users\ALUMNO\Documents\TiendaBigFeet\TiendaBigFeet\obj\Debug\TiendaBigFeet.pdb
